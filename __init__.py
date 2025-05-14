@@ -6,7 +6,7 @@ bl_info = {
     "location": "View3D > Sidebar > Join Curves",
     "description": "Add Geometry Node Modifier that joins selected hair curves.",
     "warning": "",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/Morzio/Join-Hair-Curves",
     "category": "3D View",
 }
 
