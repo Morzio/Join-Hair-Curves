@@ -17,7 +17,7 @@ This is **addon** is a tool to make joining **Blender's** ***hair curves*** a si
 
 *If you want to make the joined object a new object (to preserve all of the objects), add an empty hair curve with no geometry and make that the active object (last selected object) as seen below.*
 
-![Fig 2](Fig_2.gif)
+![Fig 2](fig_2.gif)
 
 ## Installation
 1) *Download* the .zip file.
@@ -28,5 +28,5 @@ This is **addon** is a tool to make joining **Blender's** ***hair curves*** a si
 6) Navigate to the .zip location.
 7) Select the ***Join_Hair_Curves.zip***
 
-![Fig 1](Fig_1.gif)
+![Fig 1](fig_1.gif)
 
