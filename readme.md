@@ -20,6 +20,7 @@ This is **addon** is a tool to make joining **Blender's** ***hair curves*** a si
 ![Fig 2](fig_2.gif)
 
 ## Installation
+ ![Fig 7](Fig_7.png) ![Fig 6](Fig_6.png)
 1) *Download* the .zip file.
 2) Open the Preferences Panel.
 3) Open the *Add-ons* Tab.
